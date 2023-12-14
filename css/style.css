@@ -1,0 +1,11 @@
+*{
+margin:0px;
+padding:0px;
+}
+.container{
+	width:33.33%;height:200px; float:left;background-color:green; outline:1px solid #000;
+}
+.container img{
+width:200px;
+height:200px;
+}

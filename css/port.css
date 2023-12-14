@@ -1,0 +1,9 @@
+*{margin:0;}
+body{
+color:#ff0000;
+background-color:#ffff00;
+font-family:sans-serif;
+}
+.first{
+	width:33.33%;height:200px; float:left;background-color:green; outline:1px solid #000;
+}
